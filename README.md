@@ -7,7 +7,6 @@ What is this repository about?
 
 How do I get set up?
   - make all
-  - make clean
 
 Who do I talk to?
   - ProjectCobra
