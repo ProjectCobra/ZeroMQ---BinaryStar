@@ -10,4 +10,3 @@ How do I get set up?
 
 Who do I talk to?
   - ProjectCobra
-  - sumbulaftab@gmail.com
